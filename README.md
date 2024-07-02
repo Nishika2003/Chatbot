@@ -1,4 +1,4 @@
-# Chatbot
+# Chatbot (BERRY)
 This is a chatbot made using the Facebook BlenderBot model for generating responses to user prompts. The chatbot is hosted as a web application using Flask, allowing users to interact with it via HTTP requests.
 
 # Features
